@@ -23,16 +23,17 @@ With operations led from **Pakistan**, SyncOps is redefining modern SaaS with **
 
 ## 💡 Flagship Products & Live Demos
 
-| 🧩 Product | 📝 Description | 🌐 Live Link | 🧠 Tech Stack |
-|-------------|----------------|---------------|----------------|
-| **GeoPulse** | 🌍 AI-powered **geospatial analytics engine** for logistics, smart cities, and asset tracking. | [geopulse.syncops.tech](https://geopulse.syncops.tech) | Next.js · Mapbox · Node.js · Express.js · Python |
-| **Warehouse Dashboard** | 🏭 Real-time **warehouse visualization dashboard** with IoT integration & predictive analytics. | [warehouse.syncops.tech](https://warehouse.syncops.tech) | .NET 8 · Angular · SQL Server · Azure IoT |
-| **HR Management System** | 👥 AI-enabled **HR, payroll, and performance management** automation for enterprises. | [hr.syncops.tech](https://hr.syncops.tech) | ASP.NET Core · Razor Pages · SQL Server · AI Scoring |
-| **MedicalAI** | 🧠 Smart **AI medical assistant** for health analytics, predictions, and personalized insights. | [medicalai.syncops.tech](https://medicalai.syncops.tech) | Python · FastAPI · TensorFlow · LangChain · Vue.js |
-| **SmartProperty** | 🏠 AI-driven **global property hub** offering lifestyle-based recommendations and ROI prediction. | [smartproperty.syncops.tech](https://smartproperty.syncops.tech) | Next.js · Node.js · Express.js · MongoDB |
-| **SyncIQ** | ⚙️ **Operational intelligence & analytics automation** engine for smarter business insights. | [synciq.syncops.tech](https://synciq.syncops.tech) | Next.js · NestJS · PostgreSQL · LangChain · Redis |
-| **StudyMate AI** | 🎓 Personalized **AI learning & tutoring platform** with real-time progress tracking. | [studymate.syncops.tech](https://studymate.syncops.tech) | Next.js · Prisma · Postgres · OpenAI API · Firebase |
-| **FitResume** | 💼 AI-powered **resume builder & ATS job-matching engine** for professionals. | [fitresume.syncops.tech](https://fitresume.syncops.tech) | React.js · Node.js · Express.js · MongoDB · Python AI Models |
+| 🧩 Product | 📝 Description | 🌐 Live Demo | 💻 GitHub Repo | 🧠 Tech Stack |
+|-------------|----------------|---------------|----------------|----------------|
+| **GeoPulse** | 🌍 AI-powered **geospatial analytics engine** for logistics and smart cities. | [geopulse.syncops.tech](https://geopulse.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/GeoPulse) | Next.js · Mapbox · Node.js · Express.js · Python |
+| **Warehouse Visualization** | 🏭 Real-time **warehouse dashboard** with IoT integration & predictive analytics. | [warehouse.syncops.tech](https://warehouse.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/WarehouseVisualization) | .NET 8 · Angular · SQL Server · Azure IoT |
+| **HR Management System** | 👥 AI-enabled **HR, payroll, and performance management** automation for enterprises. | [hr.syncops.tech](https://hr.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/HRManagementSystem) | ASP.NET Core · Razor Pages · SQL Server · AI Scoring |
+| **MedicalAI** | 🧠 Smart **AI medical assistant** for health analytics, predictions, and personalized insights. | [medicalai.syncops.tech](https://medicalai.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/MedicalAI) | Python · FastAPI · TensorFlow · LangChain · Vue.js |
+| **SmartProperty** | 🏠 AI-driven **global property hub** offering lifestyle-based recommendations and ROI prediction. | [smartproperty.syncops.tech](https://smartproperty.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/SmartProperty) | Next.js · Node.js · Express.js · MongoDB |
+| **SyncIQ** | ⚙️ **Operational intelligence & analytics automation** engine for smarter business insights. | [synciq.syncops.tech](https://synciq.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/SyncIQ) | Next.js · NestJS · PostgreSQL · LangChain · Redis |
+| **StudyMate AI** | 🎓 Personalized **AI learning & tutoring platform** with real-time progress tracking. | [studymate.syncops.tech](https://studymate.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/StudyMateAI) | Next.js · Prisma · Postgres · OpenAI API · Firebase |
+| **FitResume** | 💼 AI-powered **resume builder & ATS job-matching engine** for professionals. | [fitresume.syncops.tech](https://fitresume.syncops.tech) | [GitHub ↗](https://github.com/SyncOpsTech/FitResume) | React.js · Node.js · Express.js · MongoDB · Python AI Models |
+
 
 ---
 
